@@ -47,7 +47,7 @@
 * [Laravel: Code Happy](https://leanpub.com/codehappy)
 * [Laravel in Action by Maks Surguy](http://www.manning.com/surguy/)
 * [Getting Started with Laravel 4](http://www.packtpub.com/getting-started-with-laravel-4/book)
-* 
+
 ###Tools
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
