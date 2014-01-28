@@ -22,6 +22,7 @@
 * [Culttt](http://culttt.com)
 * [Daylerees](http://daylerees.com/)
 * [Dries Vints](http://driesvints.com/)
+  * [Source Repo](https://github.com/driesvints/driesvints.com)
 * [Andrews Blog](http://blog.kongnir.com)
 * [Fideloper](http://fideloper.com/tag/laravel)
 * [Jasonlewis](http://jasonlewis.me)
