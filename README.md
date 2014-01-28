@@ -73,6 +73,10 @@
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
 
+
+###Applications built with Laravel
+* [Wardrobe - A Minimal Blogging Application](http://wardrobecms.com/)
+
 ###Contribute
 
 Please Contribute the list of resources you are aware of and not included in the list. Make sure to provide the contribution in proper section
