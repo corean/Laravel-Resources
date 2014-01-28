@@ -77,6 +77,7 @@
 
 ###Applications built with Laravel
 * [Wardrobe - A Minimal Blogging Application](http://wardrobecms.com/)
+* [Visual Bookmark Organizer](https://rivario.com/bookmark/)
 
 ###Contribute
 
