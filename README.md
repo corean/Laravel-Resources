@@ -46,7 +46,8 @@
 * [Learning Laravel: The Easiest Way](https://leanpub.com/learninglaravel)
 * [Laravel: Code Happy](https://leanpub.com/codehappy)
 * [Laravel in Action by Maks Surguy](http://www.manning.com/surguy/)
-
+* [Getting Started with Laravel 4](http://www.packtpub.com/getting-started-with-laravel-4/book)
+* 
 ###Tools
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
@@ -65,6 +66,8 @@
 * [Laravel Peeps (Twitter List)](https://twitter.com/jeffrey_way/laravel-peeps/members)
 * [Laracon EU (YouTubue)](http://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
 * [Reddit](http://www.reddit.com/r/laravel/)
+* [Laravel Korea](http://laravel-korea.org)
+* [Laravel Korea (Facebook Group)](https://www.facebook.com/groups/laravelkorea/)
 
 ###Extra
 * [Built with Laravel](http://builtwithlaravel.com)
