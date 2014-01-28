@@ -30,6 +30,7 @@
 * [Kirk Bushell](http://kirkbushell.me/categories/laravel/)
 * [Maxoffsky - Maks Surguy](http://maxoffsky.com/category/code-blog/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+* [Red Ghost](http://ghost.rivario.com)
 
 ###Tutorials
 * [Laracasts](https://laracasts.com/)
